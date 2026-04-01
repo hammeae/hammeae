@@ -1,4 +1,13 @@
-## Hi there 👋
+
+<h2 align="center">Skills </h2>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=python,nodejs,php,vscode,js,css,html,ai,ps" />
+  </a>
+</p>
+<p href="https://github.com/s0ckd3" align="center">
+    <img alt="" src=https://github-readme-stats.vercel.app/api?username=s0ckd3&show_icons=true&theme=tokyonight>
+</p>
 
 <!--
 **hammeae/hammeae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
